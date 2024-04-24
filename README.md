@@ -1,1 +1,1 @@
-# Graphen
+POS-Beispiel Graphen
